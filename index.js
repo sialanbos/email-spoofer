@@ -44,7 +44,11 @@ const spoof = (sender, header, message, sendTo) => new Promise((resolve, reject)
 ██╔══╝  ██║╚██╔╝██║██╔══██║██║██║         ╚════██║██╔═══╝ ██║   ██║██║   ██║██╔══╝  ██╔══╝  ██╔══██╗
 ███████╗██║ ╚═╝ ██║██║  ██║██║███████╗    ███████║██║     ╚██████╔╝╚██████╔╝██║     ███████╗██║  ██║
 ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚══════╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝                                                                                                            
-    `);
+
+Note : 
+- Domain like @facebook.com / @apple.com not working 
+- Use another domain like @secure.com or something
+`);
 
     while (true) {
 
