@@ -8,7 +8,7 @@
 - Done ~
 
 # Thanks to
-@ByDOG3R / FaqueTool
+@ByDOG3R
 
 Here is Bash version https://github.com/ByDog3r/FAQUE
 
